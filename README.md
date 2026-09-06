@@ -13,7 +13,7 @@
 ## Authors
 
 - Mohamed Tariq Abdel Farraj
-- Mohammed Sharif
+- Mohammed Sharif Ibrahim 
 - Ghaidaa Al-Sir
 - Dua al-Mahdi
 
