@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use or reference this manuscript, please cite it using the metadata below."
+title: "SyncField Scientific Paper Repository"
+authors:
+  - family-names: "Abdel Farraj"
+    given-names: "Mohamed Tariq"
+  - family-names: "Sharif"
+    given-names: "Mohammed"
+  - family-names: "Al-Sir"
+    given-names: "Ghaidaa"
+  - family-names: "al-Mahdi"
+    given-names: "Dua"
+version: 1.0.0
+date-released: 2026-09-06
+url: "https://github.com/Mohamed101t/SyncField-Scientific-Paper"
+
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: "Abdel Farraj"
+      given-names: "Mohamed Tariq"
+    - family-names: "Sharif"
+      given-names: "Mohammed"
+    - family-names: "Al-Sir"
+      given-names: "Ghaidaa"
+    - family-names: "al-Mahdi"
+      given-names: "Dua"
+  title: "SyncField: Design and Evaluation of an Offline-First Mobile Data Collection and Synchronization System for Low-Connectivity Environments"
+  year: 2026
+  url: "https://github.com/Mohamed101t/SyncField-Scientific-Paper/blob/main/SyncField_Scientific_Paper.pdf"
