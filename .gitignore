@@ -1,0 +1,13 @@
+# Microsoft Word temporary/lock files
+~$*.docx
+~$*.doc
+*.tmp
+*.temp
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# Office auto-recovery files
+*.asd
+*.wbk
